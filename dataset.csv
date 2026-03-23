@@ -1,0 +1,41 @@
+Product,Category,Price,Rating
+Phone A,Electronics,15000,4.2
+Phone B,Electronics,20000,4.5
+Phone C,Electronics,18000,4.3
+Laptop A,Electronics,50000,4.6
+Laptop B,Electronics,60000,4.7
+Tablet A,Electronics,25000,4.1
+Headphones A,Electronics,2000,4.0
+Headphones B,Electronics,3500,4.2
+Smartwatch A,Electronics,5000,4.1
+Smartwatch B,Electronics,7000,4.3
+
+Shirt A,Clothing,800,4.0
+Shirt B,Clothing,1200,4.2
+Jeans A,Clothing,2000,4.3
+Jeans B,Clothing,2500,4.4
+Jacket A,Clothing,3000,4.5
+T-Shirt A,Clothing,600,3.9
+T-Shirt B,Clothing,900,4.1
+
+Shoes A,Footwear,2000,4.3
+Shoes B,Footwear,3000,4.5
+Sandals A,Footwear,1200,4.0
+Sandals B,Footwear,1500,4.1
+Sneakers A,Footwear,3500,4.6
+
+Watch A,Accessories,3000,4.1
+Watch B,Accessories,4500,4.3
+Sunglasses A,Accessories,1500,4.2
+Backpack A,Accessories,2000,4.4
+Wallet A,Accessories,1000,4.0
+
+Book A,Books,500,4.5
+Book B,Books,700,4.6
+Notebook A,Books,200,4.1
+Pen Set A,Books,300,4.0
+
+Mixer A,Home Appliances,4000,4.2
+Iron A,Home Appliances,1500,4.1
+Fan A,Home Appliances,2500,4.3
+Vacuum Cleaner A,Home Appliances,7000,4.5
