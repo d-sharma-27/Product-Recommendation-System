@@ -1,11 +1,9 @@
-Product Recommendation System (Mini AI Project)
+Product Recommendation System
 
-Overview
-This project is a simple Product Recommendation System developed using fundamental concepts of Artificial Intelligence and Machine Learning. It recommends similar products based on features such as price, rating, and category.
+Overview: This project is a simple Product Recommendation System developed using fundamental concepts of Artificial Intelligence and Machine Learning. It recommends similar products based on features such as price, rating, and category.
 The system uses a content-based filtering approach with similarity measurement to identify and suggest relevant products.
 
-Problem Statement
-With a large number of products available online, users often find it difficult to identify items that best match their preferences. This project aims to simplify product discovery by recommending items that are similar to a selected product.
+Problem Statement: With a large number of products available online, users often find it difficult to identify items that best match their preferences. This project aims to simplify product discovery by recommending items that are similar to a selected product.
 
 Features
 * Recommend similar products based on input
